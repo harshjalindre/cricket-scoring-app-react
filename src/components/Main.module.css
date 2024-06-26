@@ -1,0 +1,11 @@
+.main{
+    width: 70%;
+    margin: 0 auto;
+    background-color: #ccc;
+    padding: 20px 30px;
+    border-radius: 20px;
+}
+
+.main > h1,h2,h3,h4,h5,h6{
+    text-align: center;
+}

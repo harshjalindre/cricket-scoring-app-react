@@ -1,0 +1,11 @@
+.mainDiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.btngroup > button{
+    width: 70px;
+    padding: 5px;
+    margin: 5px;
+}
